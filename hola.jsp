@@ -1,2 +1,3 @@
 Las siguientes páginas enlazan a Guilhufe: Mostrando 6 elementos. Ver (50 anteriores · 50 siguientes) (20 · 50 · 100 · 250 · 500). Penafiel ‎ (← enlaces · editar) Anexo:Freguesias de Portugal ‎ (← enlaces · editar) Wikipedia:Ranking de creaciones (sin
-redirec. Para más información, vea Mostrar la pestaña Programador. añadido macros
+redirec. Para más información, vea Mostrar la pestaña Programador. añadido macros Pasos siguientes Para más información sobre la creación de macros, consulte Crear o eliminar una macro. Para obtener información sobre la ejecución de una macro, consulte
+Ejecutar una macro. ¿Necesitas más ayuda? Siempre puede preguntar a un experto en Excel Tech Community, obtener soporte técnico en la Comunidad de respuestas o sugerir una característica nueva o mejora en el UserVoice de Excel.
